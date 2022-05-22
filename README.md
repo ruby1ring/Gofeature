@@ -11,3 +11,5 @@ go test
 ```
 
 ![img](image/README/1653190184660.png)
+
+匹配规则和权重见目录下reg.txt
